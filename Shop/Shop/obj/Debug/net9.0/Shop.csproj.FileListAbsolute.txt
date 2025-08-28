@@ -1,0 +1,15 @@
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\bin\Debug\net9.0\Shop.exe
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\bin\Debug\net9.0\Shop.deps.json
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\bin\Debug\net9.0\Shop.runtimeconfig.json
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\bin\Debug\net9.0\Shop.dll
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\bin\Debug\net9.0\Shop.pdb
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\obj\Debug\net9.0\Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\obj\Debug\net9.0\Shop.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\obj\Debug\net9.0\Shop.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\obj\Debug\net9.0\Shop.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\obj\Debug\net9.0\Shop.sourcelink.json
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\obj\Debug\net9.0\Shop.dll
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\obj\Debug\net9.0\refint\Shop.dll
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\obj\Debug\net9.0\Shop.pdb
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\obj\Debug\net9.0\Shop.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\CSHARPR\NELIO C#\EXERCICIOS C#\Shop\Shop\obj\Debug\net9.0\ref\Shop.dll
